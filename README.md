@@ -4,7 +4,7 @@ I am a Software Developer, my focus is on web development, but i also like the d
 
 ---
 ```
-## contact => {
+contact => {
   - [LinkedIn](https://www.linkedin.com/in/luciano-brumer/)
   - lucianobrumer5@gmail.com
   - [CodePen](https://codepen.io/lucianobrumer)
