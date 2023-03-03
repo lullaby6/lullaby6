@@ -9,7 +9,7 @@ I am a Software Developer, my focus is on web development, but i also like the d
   - lucianobrumer5@gmail.com
   - [CodePen](https://codepen.io/lucianobrumer)
   
-}
+} //if you want to give me a little help, I'm looking for a job :*
 
 ---
 Here you can see my most recent project: https://lullaby6.github.io/Speed-Coder/
