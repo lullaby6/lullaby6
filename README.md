@@ -5,10 +5,9 @@ I am a Software Developer, my focus is on web development, but i also like the d
 ---
 ```js
 contact => {
-  - [LinkedIn](https://www.linkedin.com/in/luciano-brumer/)
-  - lucianobrumer5@gmail.com
-  - [CodePen](https://codepen.io/lucianobrumer)
-  
+  linkedin: https://www.linkedin.com/in/luciano-brumer/,
+  email: lucianobrumer5@gmail.com,
+  codepen: https://codepen.io/lucianobrumer
 } //if you want to give me a little help, I'm looking for a job :*
 ```
 ---
