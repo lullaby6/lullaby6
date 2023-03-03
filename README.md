@@ -4,8 +4,10 @@ I am a Software Developer, my focus is on web development, but i also like the d
 
 Here you can see my most resent project: https://lullaby6.github.io/Speed-Coder/
 
-## <contact/>
+## contact => {
 
-- [Linkedin](https://www.linkedin.com/in/luciano-brumer/)
-- lucianobrumer5@gmail.com
-- [CodePen](https://codepen.io/lucianobrumer)
+  - [Linkedin](https://www.linkedin.com/in/luciano-brumer/)
+  - lucianobrumer5@gmail.com
+  - [CodePen](https://codepen.io/lucianobrumer)
+
+}
