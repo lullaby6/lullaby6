@@ -8,6 +8,5 @@ I am a Software Developer, my focus is on web development, but i also like the d
   - [CodePen](https://codepen.io/lucianobrumer)
   
 }
-
 #
 Here you can see my most recent project: https://lullaby6.github.io/Speed-Coder/
