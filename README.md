@@ -1,7 +1,7 @@
 # console.log('Hi! :wave:')
 
 Hi! Welcome to my Github!!! 
-about me? My name is Luciano, im from Argentina and i code every day:)
+about me? My name is Luciano, Im from Argentina and I code every day, I can do web apps, desktop apps, api rest, mc mods, datapacks and plugins, automation scripts and whatever I set my mind to:)
 
 ---
 ```js
