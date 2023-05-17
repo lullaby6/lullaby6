@@ -9,7 +9,6 @@ contact => {
   "email": "lucianobrumer5@gmail.com",
   "codepen": "https://codepen.io/lucianobrumer"
 } 
-//if you want to give me a little help, I'm looking for a job :*
 ```
 ---
-Here you can see my most recent project: https://lullaby6.github.io/Speed-Coder/
+Most recent project: https://lullaby6.github.io/Speed-Coder/
