@@ -4,7 +4,7 @@ I am a Software Developer, my focus is on web development, but i also like the d
 
 ---
 ```js
-contact => {
+links => {
   "linkedin": "https://www.linkedin.com/in/luciano-brumer/",
   "email": "lucianobrumer5@gmail.com",
   "codepen": "https://codepen.io/lucianobrumer",
