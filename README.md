@@ -7,8 +7,7 @@ I am a Software Developer, my focus is on web development, but i also like the d
 contact => {
   "linkedin": "https://www.linkedin.com/in/luciano-brumer/",
   "email": "lucianobrumer5@gmail.com",
-  "codepen": "https://codepen.io/lucianobrumer"
+  "codepen": "https://codepen.io/lucianobrumer",
+  "most-recent-project": "https://lullaby6.github.io/Speed-Coder/"
 } 
 ```
----
-Most recent project: https://lullaby6.github.io/Speed-Coder/
