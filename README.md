@@ -1,6 +1,7 @@
 # console.log('Hi! :wave:')
 
-I am a Software Developer, my focus is on web development, but i also like the development of videogames, desktop applications, IA, mc mods, plugins and datapacks and even cybersecurity, really i like programming and informatic world!
+Hi! Welcome to my Github!!! 
+about me? My name is Luciano, im from Argentina and i code every day:)
 
 ---
 ```js
