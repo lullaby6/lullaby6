@@ -8,6 +8,6 @@ contact => {
   "linkedin": "https://www.linkedin.com/in/luciano-brumer/",
   "email": "lucianobrumer5@gmail.com",
   "codepen": "https://codepen.io/lucianobrumer",
-  "most-recent-project": "https://lullaby6.github.io/Speed-Coder/"
+  "last_project": "https://lullaby6.github.io/Speed-Coder/"
 } 
 ```
