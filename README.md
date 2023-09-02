@@ -3,7 +3,7 @@
 ```js
 links => {
   "email": "lucianobrumer5@gmail.com",
-  "resume": "https://goo.su/ba1jU6".
+  "resume": "https://goo.su/ba1jU6",
   "codepen": "https://codepen.io/lucianobrumer",
   "linkedin": "https://www.linkedin.com/in/luciano-brumer/",
   "last_project": "https://github.com/lullaby6/ChessGPT"
