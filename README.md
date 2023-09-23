@@ -4,9 +4,9 @@
 links => {
   "portfolio": "lullaby6.github.io",
   "email": "lucianobrumer5@gmail.com",
-  "resume": "https://goo.su/ba1jU6",
-  "linkedin": "https://www.linkedin.com/in/luciano-brumer/",
-  "codepen": "https://codepen.io/lucianobrumer",
-  "last_project": "https://github.com/lullaby6/ChessGPT"
+  "resume": "goo.su/ba1jU6",
+  "linkedin": "linkedin.com/in/luciano-brumer/",
+  "codepen": "codepen.io/lucianobrumer",
+  "last_project": "github.com/lullaby6/ChessGPT"
 } 
 ```
