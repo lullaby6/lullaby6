@@ -1,4 +1,4 @@
-# console.log('Hi! :wave:')
+# console.error('Hi! :wave:')
 
 ```js
 links => {
