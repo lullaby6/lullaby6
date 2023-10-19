@@ -1,4 +1,4 @@
-# Hey! Welcome to my GitHub Profile.
+# Hey! 👋 Welcome to my GitHub Profile.
 
 ```js
 links => {
