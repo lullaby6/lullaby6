@@ -10,5 +10,5 @@ links => {
   "favorite_project": "github.com/lullaby6/ChessGPT"
 } 
 ```
-## Languages, technologies, frameworks and tools that I use
+## Languages, technologies, frameworks and tools I use 💻
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,express,prisma,react,svelte,astro,tailwind,golang,php,java,cs,python,fastapi,django,flask,mysql,postgresql,mongodb,git,docker,postman)](https://skillicons.dev)
