@@ -13,12 +13,10 @@ links => {
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,express,prisma,react,svelte,astro,tailwind)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=golang,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=golang,php,java,cs)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=python,fastapi,django,flask)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,mongodb)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=java,cs)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=git,docker,postman)](https://skillicons.dev)
