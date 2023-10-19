@@ -1,4 +1,4 @@
-# console.error('Hi! :wave:')
+# Hey! Welcome to my GitHub Profile.
 
 ```js
 links => {
