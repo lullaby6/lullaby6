@@ -19,4 +19,6 @@ links => {
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,mongodb)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=java,csharp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,cs)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=git,docker,postman)](https://skillicons.dev)
