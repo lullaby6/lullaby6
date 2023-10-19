@@ -11,7 +11,7 @@ links => {
 } 
 ```
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,node,react,svelte,astro,tailwind,prisma,express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,react,svelte,astro,tailwind,prisma,express)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=golang,php)](https://skillicons.dev)
 
