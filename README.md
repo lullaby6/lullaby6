@@ -15,4 +15,6 @@ links => {
 
 [![My Skills](https://skillicons.dev/icons?i=golang,php)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,c#)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,fastapi,django,flask)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=java,c#)](https://skillicons.dev)
