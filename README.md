@@ -10,3 +10,5 @@ links => {
   "favorite_project": "github.com/lullaby6/ChessGPT"
 } 
 ```
+## Skills
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
