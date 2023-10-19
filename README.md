@@ -7,6 +7,6 @@ links => {
   "resume": "goo.su/ba1jU6",
   "linkedin": "linkedin.com/in/luciano-brumer/",
   "codepen": "codepen.io/lucianobrumer",
-  "last_project": "github.com/lullaby6/ChessGPT"
+  "favorite_project": "github.com/lullaby6/ChessGPT"
 } 
 ```
