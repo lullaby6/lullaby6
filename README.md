@@ -11,12 +11,12 @@ links => {
 } 
 ```
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,golang,react,svelte,astro,tailwind,prisma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,node,react,svelte,astro,tailwind,prisma,express)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=golang,php)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=python,fastapi,django,flask)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlserver)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,mongodb)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=java,c#)](https://skillicons.dev)
