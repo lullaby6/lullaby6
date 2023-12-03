@@ -20,8 +20,8 @@ Gratefully working on my first job as a web developer on a startup using PHP, Go
 
 ## Contact
 - [Email](mailto:lucianobrumer5@gmail.com)
-- [Linkedin](linkedin.com/in/luciano-brumer/)
+- [Linkedin](https://linkedin.com/in/luciano-brumer/)
 
 ## Other links
-- [Codepen](codepen.io/lucianobrumer)
+- [Codepen](https://codepen.io/lucianobrumer)
 - [Portfolio ](https://lullaby6.github.io) (in progress)
