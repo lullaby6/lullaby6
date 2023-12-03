@@ -25,9 +25,3 @@ Gratefully working on my first job as a web developer on a startup using PHP, Go
 ## Other links
 - [Codepen](https://codepen.io/lucianobrumer)
 - [Portfolio ](https://lullaby6.github.io) (in progress)
-
-## Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lullaby6&layout=compact&theme=dark)
-![GithubStats](https://github-readme-stats.vercel.app/api?username=lullaby6&layout=compact&theme=dark&show_icons=true)
-
