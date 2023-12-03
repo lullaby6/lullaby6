@@ -12,7 +12,7 @@ Gratefully working on my first job as a web developer on a startup using PHP, Go
 - [html-component](https://github.com/lullaby6/html-component) (JavaScript Library)
 - [jnbase](https://github.com/lullaby6/jnbase) (NPM Package)
 - [Windows-Explorer-Toggle](https://github.com/lullaby6/Windows-Explorer-Toggle) (C# Desktop App)
-- [Speed-Coder](https://github.com/lullaby6/Speed-Coder) (Website like monkeytype)
+- [Speed-Coder](https://lullaby6.github.io/Speed-Coder/) (Website like monkeytype)
 - [Wallpaper-Randomizer](https://github.com/lullaby6/Wallpaper-Randomizer) (Python Desktop app)
 
 ## Languages, technologies, frameworks and tools I use 💻
@@ -24,4 +24,4 @@ Gratefully working on my first job as a web developer on a startup using PHP, Go
 
 ## Other links
 - [Codepen](codepen.io/lucianobrumer)
-- [Portfolio ](lullaby6.github.io) (in progress)
+- [Portfolio ](https://lullaby6.github.io) (in progress)
