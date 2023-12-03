@@ -6,15 +6,15 @@ But that doesn't stop me from starting new personal projects!!!
 
 ### Some of my favorite personal projects
 
-- **[ChessGPT](https://github.com/lullaby6/ChessGPT)**
-- **[express-dir-routing](https://github.com/lullaby6/express-dir-routing)**
-- **[Pyxes.py](https://github.com/lullaby6/Pyxes.py)**
-- **[Desktop-Emojis](https://github.com/lullaby6/Desktop-Emojis)**
-- **[html-component](https://github.com/lullaby6/html-component)**
-- **[jnbase](https://github.com/lullaby6/jnbase)**
-- **[Windows-Explorer-Toggle](https://github.com/lullaby6/Windows-Explorer-Toggle)**
-- **[Speed-Coder](https://github.com/lullaby6/Speed-Coder)**
-- **[Wallpaper-Randomizer](https://github.com/lullaby6/Wallpaper-Randomizer)**
+- **[ChessGPT](https://github.com/lullaby6/ChessGPT)** (Python Project)
+- **[express-dir-routing](https://github.com/lullaby6/express-dir-routing)** (NPM Package)
+- **[Pyxes.py](https://github.com/lullaby6/Pyxes.py)** (Python Game Engine)
+- **[Desktop-Emojis](https://github.com/lullaby6/Desktop-Emojis)** (Python Desktop app)
+- **[html-component](https://github.com/lullaby6/html-component)** (JavaScript Library)
+- **[jnbase](https://github.com/lullaby6/jnbase)** (NPM Package)
+- **[Windows-Explorer-Toggle](https://github.com/lullaby6/Windows-Explorer-Toggle)** (C# Desktop App)
+- **[Speed-Coder](https://github.com/lullaby6/Speed-Coder)** (Website like monkeytype)
+- **[Wallpaper-Randomizer](https://github.com/lullaby6/Wallpaper-Randomizer)** (Python Desktop app)
 
 ## Languages, technologies, frameworks and tools I use 💻
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,express,prisma,react,svelte,astro,tailwind,golang,php,java,cs,python,fastapi,django,flask,mysql,postgresql,mongodb,git,docker,postman)](https://skillicons.dev)
