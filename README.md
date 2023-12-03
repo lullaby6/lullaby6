@@ -1,5 +1,5 @@
 ### Hey! 👋 Welcome to my GitHub Profile.
-## I'm Luciano, alias lullaby6
+## I'm Luciano, alias lullaby
 
 I am currently working on a startup using PHP, Golang and React.
 But that doesn't stop me from starting new personal projects!!!
