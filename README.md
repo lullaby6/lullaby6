@@ -1,9 +1,7 @@
 ### Hey! 👋 Welcome to my GitHub Profile.
-## I'm Luciano, alias lullaby.
+## I'm Luciano, nickname lullaby.
 
-Gratefully working on my first job as a web developer on a startup using PHP, Golang and React, and at the same time I continue with my personal projects, because programming is not only my job but one of my great hobbies.
-
-### Some of my favorite personal projects
+## Some side projects
 
 - [ChessGPT](https://github.com/lullaby6/ChessGPT) (Python Project)
 - [express-dir-routing](https://github.com/lullaby6/express-dir-routing) (NPM Package)
