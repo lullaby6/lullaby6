@@ -1,5 +1,6 @@
 ### Hey! 👋 Welcome to my GitHub Profile.
 ## I'm Luciano, nickname lullaby.
+Full time full-stack developer using PGP, Golang, JavaScript, React.js, etc.
 
 ## Some side projects
 
