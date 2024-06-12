@@ -14,11 +14,11 @@ Working as a full-stack developer using PHP, Golang, JavaScript, React.js, etc..
 - [Speed Coder](https://lullaby6.github.io/Speed-Coder/) (Website like monkeytype)
 - [Video Speed Control](https://github.com/lullaby6/video-speed-control) (JavaScript Chromium Extension)
 - [jnbase](https://github.com/lullaby6/jnbase) (NPM Package)
-- [Windows Explorer Toggle](https://github.com/lullaby6/Windows-Explorer-Toggle) (C# Desktop App)
+- [Windows Explorer Toggle](https://lullaby6.github.io/Windows-Explorer-Toggle/) (C# Desktop App)
 - [pyxes.py](https://github.com/lullaby6/Pyxes.py) (Python Game Engine)
 - [Desktop Emojis](https://github.com/lullaby6/Desktop-Emojis) (Python Desktop app)
 - [Wallpaper Randomizer](https://github.com/lullaby6/Wallpaper-Randomizer) (Python Desktop app)
-- [html-component](https://github.com/lullaby6/html-component) (JavaScript Library)
+- [ly-component](https://github.com/lullaby6/ly-component) (JavaScript Library)
 
 ## Contact
 - [Email](mailto:lucianobrumer5@gmail.com)
