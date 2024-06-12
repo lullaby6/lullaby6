@@ -9,7 +9,7 @@ Working as a full-stack developer using PHP, Golang, JavaScript, React.js, etc..
 
 - [ZSchema](https://github.com/lullaby6/zschema) (PHP Library)
 - [ChessGPT](https://github.com/lullaby6/ChessGPT) (Python Project)
-- [Noty](https://notyapp.vercel.app/) (React Web App)
+- [Noty](https://notyapp.vercel.app/) (Simple React.js Web App)
 - [express-dir-routing](https://github.com/lullaby6/express-dir-routing) (NPM Package)
 - [custom-html-element](https://github.com/lullaby6/custom-html-element) (NPM Package)
 - [Speed Coder](https://lullaby6.github.io/Speed-Coder/) (Website like monkeytype)
