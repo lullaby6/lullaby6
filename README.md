@@ -7,9 +7,10 @@ Working as a full-stack developer using PHP, Golang, JavaScript, React.js, etc..
 
 ## Some side projects
 
-- [ChessGPT](https://github.com/lullaby6/ChessGPT) (Python Project)
-- [express-dir-routing](https://github.com/lullaby6/express-dir-routing) (NPM Package)
 - [ZSchema](https://github.com/lullaby6/zchema) (PHP Library)
+- [ChessGPT](https://github.com/lullaby6/ChessGPT) (Python Project)
+- [Noty](https://notyapp.vercel.app/) (React Web App)
+- [express-dir-routing](https://github.com/lullaby6/express-dir-routing) (NPM Package)
 - [custom-html-element](https://github.com/lullaby6/custom-html-element) (NPM Package)
 - [Speed Coder](https://lullaby6.github.io/Speed-Coder/) (Website like monkeytype)
 - [Video Speed Control](https://github.com/lullaby6/video-speed-control) (JavaScript Chromium Extension)
@@ -19,6 +20,8 @@ Working as a full-stack developer using PHP, Golang, JavaScript, React.js, etc..
 - [Desktop Emojis](https://github.com/lullaby6/Desktop-Emojis) (Python Desktop app)
 - [Wallpaper Randomizer](https://github.com/lullaby6/Wallpaper-Randomizer) (Python Desktop app)
 - [ly-component](https://github.com/lullaby6/ly-component) (JavaScript Library)
+- [MC Block Creator](https://lullaby6.github.io/mc-block-creator/) (Minecraft Website Tool)
+
 
 ## Contact
 - [Email](mailto:lucianobrumer5@gmail.com)
