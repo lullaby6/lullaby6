@@ -7,7 +7,7 @@ Working as a full-stack developer using PHP, Golang, JavaScript, React.js, etc..
 
 ## Some side projects
 
-- [ZSchema](https://github.com/lullaby6/zchema) (PHP Library)
+- [ZSchema](https://github.com/lullaby6/zschema) (PHP Library)
 - [ChessGPT](https://github.com/lullaby6/ChessGPT) (Python Project)
 - [Noty](https://notyapp.vercel.app/) (React Web App)
 - [express-dir-routing](https://github.com/lullaby6/express-dir-routing) (NPM Package)
