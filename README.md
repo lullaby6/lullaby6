@@ -19,7 +19,7 @@ Working as a full-stack developer using PHP, Golang, JavaScript, React.js, etc..
 - [pyxes.py](https://github.com/lullaby6/Pyxes.py) (Python Game Engine)
 - [Desktop Emojis](https://github.com/lullaby6/Desktop-Emojis) (Python Desktop app)
 - [Wallpaper Randomizer](https://github.com/lullaby6/Wallpaper-Randomizer) (Python Desktop app)
-- [ly-component](https://github.com/lullaby6/ly-component) (JavaScript Library)
+- [html-fetch.js](https://github.com/lullaby6/html-fetch.js) (JavaScript Library)
 - [MC Block Creator](https://lullaby6.github.io/mc-block-creator/) (Minecraft Website Tool)
 
 
