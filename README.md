@@ -14,4 +14,3 @@ If you need to contact me for any `data-pack` or `npm package`, you can join my 
 
 ## Other links
 - [Codepen](https://codepen.io/lucianobrumer)
-- [Portfolio ](https://lullaby6.github.io) (in progress)
