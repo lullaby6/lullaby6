@@ -3,6 +3,7 @@
 <p align="center">Full-Stack Web Developer</p>
 
 <h1 align="center">Skills</h1>
+
 <div align="center">
   [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,express,prisma,react,svelte,astro,tailwind,golang,php,java,cs,python,fastapi,django,flask,mysql,postgresql,mongodb,git,docker,postman)](https://skillicons.dev)
 </div>
