@@ -1,11 +1,11 @@
 
-<h1 styles="text-align: center;">Hi 👋, I'm Joe Santos Garcia</h1>
+<h1 align="center">Hi 👋, I'm Luciano Brumer, alias lullaby</h1>
 Working as a full-stack developer using PHP, Golang, JavaScript, React.js, etc...
 
-<h1 style="text-align: center;">Skills</h1>
+<h1 align="center">Skills</h1>
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,express,prisma,react,svelte,astro,tailwind,golang,php,java,cs,python,fastapi,django,flask,mysql,postgresql,mongodb,git,docker,postman)](https://skillicons.dev)
 
-## Contact
+<h1 align="center">Contact</h1>
 - [Email](mailto:lucianobrumer5@gmail.com)
 - [Linkedin](https://linkedin.com/in/luciano-brumer/)
 
