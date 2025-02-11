@@ -1,7 +1,7 @@
 
 # Hi 👋, I'm Luciano Brumer, alias lullaby
 `Full-Stack Web Developer`
-`Data-Pack Maker`
+`Data-Pack Developer`
 
 # Skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,express,prisma,react,svelte,astro,tailwind,golang,php,java,cs,python,fastapi,django,flask,mysql,postgresql,mongodb,git,docker,postman)](https://skillicons.dev)
