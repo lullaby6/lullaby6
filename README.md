@@ -1,8 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm Luciano Brumer, alias lullaby</h1>
-Working as a full-stack developer using PHP, Golang, JavaScript, React.js, etc...
+
+<p align="center">Working as a full-stack developer using PHP, Golang, JavaScript, React.js, etc...</p>
 
 <h1 align="center">Skills</h1>
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,express,prisma,react,svelte,astro,tailwind,golang,php,java,cs,python,fastapi,django,flask,mysql,postgresql,mongodb,git,docker,postman)](https://skillicons.dev)
 
 <h1 align="center">Contact</h1>
