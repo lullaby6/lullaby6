@@ -1,5 +1,5 @@
 
-## Hi!
+<h1 style="text-align: center;">Hi 👋, I'm Joe Santos Garcia</h1>
 Working as a full-stack developer using PHP, Golang, JavaScript, React.js, etc...
 
 ## Languages, technologies, frameworks and tools I use 💻
