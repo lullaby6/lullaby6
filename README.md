@@ -9,8 +9,7 @@
 # Contact
 - [Email](mailto:lucianobrumer5@gmail.com)
 - [Linkedin](https://linkedin.com/in/luciano-brumer/)
-If you need to contact me for any `data-pack` or `npm package`, you can join my discord server and check there!
-- [Discord Server](https://discord.gg/CbbDyYe8)
+- [Discord Server](https://discord.gg/CbbDyYe8) (If you need to contact me for any `data-pack` or `npm package`, you can join my discord server and check there!)
 
 ## Links
 - [Codepen](https://codepen.io/lucianobrumer)
