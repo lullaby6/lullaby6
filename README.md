@@ -1,4 +1,3 @@
-
 # Hi 👋, I'm Luciano Brumer, alias lullaby.
 `Full-Stack Web Developer`
 `Data-Pack Developer`
@@ -9,13 +8,7 @@ I'm from Argentina, Buenos Aires. I started programming for fun when I was 10 ye
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,express,prisma,react,vue,svelte,astro,tailwind,golang,php,java,cs,python,fastapi,django,flask,mysql,postgresql,mongodb,git,docker,postman)](https://skillicons.dev)
 
 ## ✉️ Contact
-- [Email](mailto:lucianobrumer5@gmail.com)
-- [Linkedin](https://linkedin.com/in/luciano-brumer/)
-- [Discord](https://discordapp.com/users/lullaby6)
+<div style="display: flex; gap: 1rem; flex-wrap: wrap;"> <a href="mailto:lucianobrumer5@gmail.com">Email</a> - <a href="https://linkedin.com/in/luciano-brumer/">LinkedIn</a> - <a href="https://discordapp.com/users/lullaby6">Discord</a> </div>
 
 ## 🧷 Links
-- [Codepen](https://codepen.io/lucianobrumer)
-- [NPM](https://www.npmjs.com/~lullaby6)
-- [Modrinth](https://modrinth.com/user/lullaby)
-- [Ko-fi](https://ko-fi.com/lullaby45743) ❤️
-- [PayPal](https://paypal.me/lucianobrumer) ❤️
+<div style="display: flex; gap: 1rem; flex-wrap: wrap;"> <a href="https://codepen.io/lucianobrumer">Codepen</a> - <a href="https://www.npmjs.com/~lullaby6">NPM</a> - <a href="https://modrinth.com/user/lullaby">Modrinth</a> - <a href="https://ko-fi.com/lullaby45743">Ko-fi ❤️</a> - <a href="https://paypal.me/lucianobrumer">PayPal ❤️</a> </div>
