@@ -13,8 +13,6 @@ I'm from Argentina, Buenos Aires. I started programming for fun when I was 10 ye
 - [Linkedin](https://linkedin.com/in/luciano-brumer/)
 
 ## 🧷 Links
-- [Modrinth Profile](https://modrinth.com/user/lullaby)
-- [Data-Packs Discord Server](https://discord.gg/5UdcDa5xNC)
 - [Codepen](https://codepen.io/lucianobrumer)
 - [Ko-fi](https://ko-fi.com/lullaby45743) ❤️
 - [Paypal](https://paypal.me/lucianobrumer) ❤️
