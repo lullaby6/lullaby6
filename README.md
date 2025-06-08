@@ -11,6 +11,7 @@ I'm from Argentina, Buenos Aires. I started programming for fun when I was 10 ye
 ## ✉️ Contact
 - [Email](mailto:lucianobrumer5@gmail.com)
 - [Linkedin](https://linkedin.com/in/luciano-brumer/)
+- [Discord](https://discordapp.com/users/lullaby6)
 
 ## 🧷 Links
 - [Codepen](https://codepen.io/lucianobrumer)
