@@ -12,3 +12,11 @@ I'm a developer from Buenos Aires, Argentina. I started coding at 10 with Scratc
 
 ## 🧷 Links
 <div style="display: flex; gap: 1rem; flex-wrap: wrap;"> <a href="https://codepen.io/lucianobrumer">Codepen</a> · <a href="https://www.npmjs.com/~lullaby6">NPM</a> · <a href="https://modrinth.com/user/lullaby">Modrinth</a> </div>
+
+## ⚡ Stats
+<details>
+  <summary>Show</summary>
+  
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=lullaby6&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lullaby6&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+</details>
