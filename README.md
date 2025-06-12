@@ -17,6 +17,6 @@ I'm a developer from Buenos Aires, Argentina. I started coding at 10 with Scratc
 <details>
   <summary>Show</summary>
   
-  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=lullaby6&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lullaby6&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=lullaby6&theme=transparent&&hide=contribs,prs&show_icons=true&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lullaby6&layout=compact&theme=transparent&count_private=true&hide_border=true)</a>
 </details>
