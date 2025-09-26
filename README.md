@@ -5,7 +5,7 @@
 I started coding at 10 yo with Scratch, then explored Python and Pygame. What began as a hobby eventually became my profession.
 
 ## 📃 Skills
-![Skills](https://skillicons.dev/icons?i=golang,php,rust,python,cs,jave,js,html,css,laravel,react,vue,svelte,astro,nodejs,express,tailwind,fastapi,django,flask,mysql,postgresql,mongodb,docker,git,postman)
+![Skills](https://skillicons.dev/icons?i=golang,php,rust,python,cs,java,js,html,css,laravel,react,vue,svelte,astro,nodejs,express,tailwind,fastapi,django,flask,mysql,postgresql,mongodb,docker,git,postman)
 
 ## ✉️ Contact
 <div style="display: flex; gap: 1rem; flex-wrap: wrap;"> <a href="mailto:lucianobrumer5@gmail.com">Email</a> · <a href="https://linkedin.com/in/luciano-brumer/">LinkedIn</a> · <a href="https://discordapp.com/users/lullaby6">Discord</a> </div>
