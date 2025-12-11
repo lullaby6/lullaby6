@@ -11,4 +11,4 @@ I started coding at 10 yo with Scratch, then explored Python and Pygame. What be
 <div style="display: flex; gap: 1rem; flex-wrap: wrap;"> <a href="mailto:lucianobrumer5@gmail.com">Email</a> · <a href="https://linkedin.com/in/luciano-brumer/">LinkedIn</a> · <a href="https://discordapp.com/users/lullaby6">Discord</a> </div>
 
 ## 🧷 Links
-<div style="display: flex; gap: 1rem; flex-wrap: wrap;"> <a href="https://codepen.io/lucianobrumer">Codepen</a> · <a href="https://www.npmjs.com/~lullaby6">NPM</a> · <a href="https://modrinth.com/user/lullaby">Modrinth</a> · <a href="https://discord.com/invite/5UdcDa5xNC ">Discord Server</a> </div>
+<div style="display: flex; gap: 1rem; flex-wrap: wrap;"> <a href="https://codepen.io/lucianobrumer">Codepen</a> · <a href="https://www.npmjs.com/~lullaby6">NPM</a> · <a href="https://modrinth.com/user/lullaby">Modrinth</a> </div>
