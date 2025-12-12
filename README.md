@@ -1,5 +1,4 @@
 ## Hi! I'm lullaby
-`Software Developer`
 `Full-Stack Web Developer`
 `Data-Pack Developer`
 
