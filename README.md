@@ -1,5 +1,6 @@
 ## Hi! I'm lullaby
 `Full-Stack Web Developer`
+`Game Developer`
 `Data-Pack Developer`
 
 I started coding at 10 yo with Scratch, then explored Python and Pygame. What began as a hobby eventually became my main hobby and profession.
