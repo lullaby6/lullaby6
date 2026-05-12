@@ -1,4 +1,4 @@
-## Hi! I'm lullaby
+## Hi! I'm lullaby! 👋
 `Full-Stack Web Developer`
 `Game Developer`
 `Data-Pack Developer`
