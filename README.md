@@ -9,7 +9,10 @@ I started coding at 10 yo with Scratch, then explored Python and Pygame. What be
 ![Skills](https://skillicons.dev/icons?i=golang,php,rust,python,cs,java,js,html,css,laravel,react,vue,svelte,astro,nodejs,express,tailwind,fastapi,django,flask,mysql,postgresql,mongodb,docker,git)
 
 ## Contact
-<div style="display: flex; gap: 1rem; flex-wrap: wrap;"> <a href="mailto:lucianobrumer5@gmail.com">E-mail</a> · <a href="https://linkedin.com/in/luciano-brumer/">LinkedIn</a> · <a href="https://discordapp.com/users/lullaby6">Discord</a> </div>
+[E-mail](mailto:lucianobrumer5@gmail.com) · [LinkedIn](https://linkedin.com/in/luciano-brumer/) · [Discord](https://discordapp.com/users/lullaby6)
 
 ## Links
-<div style="display: flex; gap: 1rem; flex-wrap: wrap;"> <a href="https://codepen.io/lucianobrumer">Codepen</a> · <a href="https://www.npmjs.com/~lullaby6">NPM</a> · <a href="https://modrinth.com/user/lullaby">Modrinth</a> </div>
+[Codepen](https://codepen.io/lucianobrumere) · [NPM](https://www.npmjs.com/~lullaby6)  · [Modrinth](https://modrinth.com/user/lullaby)
+
+## Projects
+[Starbits](https://starbits.site/) · [Fondo de Cine](https://fondodecine.com.ar/) · [Locale Drive](https://www.npmjs.com/package/locale-drive) · [ZSchema](https://packagist.org/packages/lullaby6/zschema) · [Windows Explorer Toggle](https://lullaby6.github.io/windows-explorer-toggle/)
