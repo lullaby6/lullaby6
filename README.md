@@ -15,4 +15,4 @@ I started coding at 10 yo with Scratch, then explored Python and Pygame. What be
 [Codepen](https://codepen.io/lucianobrumere) · [NPM](https://www.npmjs.com/~lullaby6)  · [Modrinth](https://modrinth.com/user/lullaby)
 
 ## Projects
-[Starbits](https://starbits.site/) · [Fondo de Cine](https://fondodecine.com.ar/) · [Locale Drive](https://www.npmjs.com/package/locale-drive) · [ZSchema](https://packagist.org/packages/lullaby6/zschema) · [Windows Explorer Toggle](https://lullaby6.github.io/windows-explorer-toggle/)
+[Starbits](https://starbits.site/) (JS) · [Fondo de Cine](https://fondodecine.com.ar/) (Web) · [Locale Drive](https://www.npmjs.com/package/locale-drive) (JS) · [ZSchema](https://packagist.org/packages/lullaby6/zschema) (PHP) · [Windows Explorer Toggle](https://lullaby6.github.io/windows-explorer-toggle/) (C#)
