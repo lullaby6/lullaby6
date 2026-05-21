@@ -12,7 +12,7 @@ I started coding at 10 yo with Scratch, then explored Python and Pygame. What be
 [Starbits](https://starbits.site/) (JS) · [Fondo de Cine](https://fondodecine.com.ar/) (Web) · [Locale Drive](https://www.npmjs.com/package/locale-drive) (JS) · [ZSchema](https://packagist.org/packages/lullaby6/zschema) (PHP) · [Windows Explorer Toggle](https://lullaby6.github.io/windows-explorer-toggle/) (C#)
 
 ## Contact
-[E-mail](mailto:lucianobrumer5@gmail.com) · [LinkedIn](https://linkedin.com/in/luciano-brumer/) · [Discord](https://discordapp.com/users/lullaby6)
+[E-mail](mailto:lullaby6.t@gmail.com) · [LinkedIn](https://linkedin.com/in/luciano-brumer/) · [Discord](https://discordapp.com/users/lullaby6)
 
 ## Links
 [NPM](https://www.npmjs.com/~lullaby6)  · [Modrinth](https://modrinth.com/user/lullaby) · [Codepen](https://codepen.io/lucianobrumere)
