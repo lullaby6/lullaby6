@@ -12,4 +12,4 @@ I started coding at 10 yo with Scratch, then explored Python and Pygame. What be
 [E-mail](mailto:lullaby6.t@gmail.com) · [LinkedIn](https://linkedin.com/in/luciano-brumer/) · [Discord](https://discordapp.com/users/lullaby6)
 
 ## Links
-[NPM](https://www.npmjs.com/~lullaby6)  · [Modrinth](https://modrinth.com/user/lullaby) · [Codepen](https://codepen.io/lucianobrumere)
+[Portfolio](https://lullaby6.dev) · [NPM](https://www.npmjs.com/~lullaby6) · [Modrinth](https://modrinth.com/user/lullaby) · [Codepen](https://codepen.io/lucianobrumere)
