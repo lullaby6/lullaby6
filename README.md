@@ -3,7 +3,7 @@
 `Game Developer`
 `Data-Pack Developer`
 
-I started coding at 10 yo with Scratch, then explored Python and Pygame. What began as a hobby eventually became my main hobby and profession.
+I'm currently working at Morning Value as a Software Developer, using Golang, JavaScript, Python, React, and more. I started programming at 10 years old with Scratch, then Python with Pygame. Later I discovered web development and cybersecurity, and they became my passion. Now I have experience building SaaS, microservices, integrating microfrontends and working with legacy projects and databases.
 
 ## Skills
 ![Skills](https://skillicons.dev/icons?i=golang,php,rust,python,cs,java,js,html,css,laravel,react,vue,svelte,astro,nodejs,express,tailwind,fastapi,django,flask,mysql,postgresql,mongodb,docker,git)
