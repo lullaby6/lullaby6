@@ -12,4 +12,4 @@ I'm currently working at Morning Value as a Software Developer, using Golang, Ja
 [E-mail](mailto:lullaby6.t@gmail.com) · [LinkedIn](https://linkedin.com/in/luciano-brumer/) · [Discord](https://discordapp.com/users/lullaby6)
 
 ## Links
-[Portfolio](https://lullaby6.dev) · [NPM](https://www.npmjs.com/~lullaby6) · [Codepen](https://codepen.io/lucianobrumere) · [Modrinth](https://modrinth.com/user/lullaby) · [Curse Forge](https://www.curseforge.com/members/lullaby6/projects?sortBy=TotalDownloads)
+[Portfolio](https://lullaby6.dev) · [NPM](https://www.npmjs.com/~lullaby6) · [itch.io](https://lullaby6.itch.io/) · [Codepen](https://codepen.io/lucianobrumere) · [Modrinth](https://modrinth.com/user/lullaby) · [Curse Forge](https://www.curseforge.com/members/lullaby6/projects?sortBy=TotalDownloads)
