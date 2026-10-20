@@ -8,7 +8,7 @@ I'm currently working at Morning Value as a Software Developer, using Golang, Ja
 ## Skills
 ![Skills](https://skillicons.dev/icons?i=golang,php,rust,python,cs,java,js,html,css,laravel,react,vue,svelte,astro,nodejs,express,tailwind,fastapi,django,flask,mysql,postgresql,mongodb,docker,git)
 
-## Projects 
+## Private Projects 
 
 [Menuvir](https://menuvir.com/en/) · [Starbits](https://lullaby6.itch.io/starbits) 
 
