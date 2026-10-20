@@ -8,9 +8,9 @@ I'm currently working at Morning Value as a Software Developer, using Golang, Ja
 ## Skills
 ![Skills](https://skillicons.dev/icons?i=golang,php,rust,python,cs,java,js,html,css,laravel,react,vue,svelte,astro,nodejs,express,tailwind,fastapi,django,flask,mysql,postgresql,mongodb,docker,git)
 
-## My Games 
+## Projects 
 
-[Starbits](https://lullaby6.itch.io/starbits)
+[Menuvir](https://menuvir.com/en/) · [Starbits](https://lullaby6.itch.io/starbits) 
 
 ## Contact
 [E-mail](mailto:lullaby6.t@gmail.com) · [LinkedIn](https://linkedin.com/in/luciano-brumer/) · [Discord](https://discordapp.com/users/lullaby6)
