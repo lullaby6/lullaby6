@@ -1,7 +1,8 @@
 ## Hi! I'm lullaby6! 👋
+`Software Developer`
 `Full-Stack Web Developer`
 `Game Developer`
-`Data-Pack Developer`
+`Minecraft Data-Pack Developer`
 
 I'm currently working at Morning Value as a Software Developer, using Golang, JavaScript, Python, React, and more. I started programming at 10 years old with Scratch, then Python with Pygame. Later I discovered web development and cybersecurity, and they became my passion. Now I have experience building SaaS, microservices, integrating microfrontends and working with legacy projects and databases.
 
